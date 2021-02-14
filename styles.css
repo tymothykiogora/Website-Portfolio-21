@@ -1,0 +1,14 @@
+body {
+    background-image: url('/flowers/mamasheila.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+
+
+  h1 {
+    color: black;
+        font-style: italic;
+        text-align: center;
+    font-size: 250%;
+    }

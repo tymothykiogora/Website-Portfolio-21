@@ -18,5 +18,14 @@
             color:black;
             font-size: 150%;}
 
+            p { color:black;
+                text-emphasis:strong;
+                text-align:inherit;
+                font-family: sans-serif;
+                line-height: 150%;
+                font-size: 100%;
+                }
+    
+
 
         

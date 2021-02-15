@@ -5,6 +5,7 @@
 	        text-align: center;
 	    font-size: 450%;
         }
+        
 
         h2 {
             font-style: italic;
@@ -13,10 +14,14 @@
             font-size: 200%;
             }
 
+
+
         h3 {font-style: italic;
             text-align:left;
             color:greenyellow;
             font-size: 250%;}
+
+
 
             p { color:aliceblue;
                 text-emphasis:strong;

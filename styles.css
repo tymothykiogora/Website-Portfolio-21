@@ -26,7 +26,6 @@
                 font-size: 100%;
                 }
     
-                li {color:antiquewhite}
 
                 body {
                     background-image: url("flowers/mamasheila.jpeg");
@@ -35,4 +34,10 @@
                     
                   }
 
-                 
+                  .center {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                   
+                  }
+                  
